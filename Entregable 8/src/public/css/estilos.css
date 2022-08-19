@@ -1,0 +1,31 @@
+
+h1{
+    background-color: rgb(221, 114, 114);
+    text-align: center;
+    padding: 2%;
+}
+
+h4{
+
+    text-align: center;
+    margin: 8%;
+    padding: 2%;
+    background-color: rgb(133, 177, 177);
+}
+
+b{
+    color: blue;
+}
+
+h7{
+    color: brown;
+}
+h8{
+    color: green;
+    font-style:italic;
+}
+form{
+    text-align: center;
+    padding:1%;
+}
+
